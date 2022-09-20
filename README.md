@@ -30,6 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-plain.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40">
