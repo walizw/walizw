@@ -54,4 +54,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
-I regularly post entries in my website [Quadword](https://lovelacec.org)
+I regularly post entries in my website [Quadword](https://lovelacec.org).
