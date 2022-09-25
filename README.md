@@ -21,7 +21,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time I like learning new technologies, another language, and an instrument.
 - :mailbox: How to reach me:
   - You can send me an [email](mailto:yojan.bustamante@udea.edu.co)
-  - In the fediverse **@walizw@transfer.lovelacec.org**
 
 ---
 
@@ -55,4 +54,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: Blog Posts :
 
-**TODO:** I will update this when I create my own activitypub blogging system 🫂
+I regularly post entries in my website [Quadword](https://lovelacec.org)
