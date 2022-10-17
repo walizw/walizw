@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+I am a Full Stack and System Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
 
 - :telescope: I am a free software enthusiast and decentralization lover.
 - :seedling: I study physics in the [Universidad de Antioquia](https://udea.edu.co/)
