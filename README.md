@@ -21,6 +21,7 @@ I am a Full Stack and System Developer <img src="https://media.giphy.com/media/W
 - :zap: In my free time I like learning new technologies, another language, and an instrument.
 - :mailbox: How to reach me:
   - You can send me an [email](mailto:yojan.bustamante@udea.edu.co)
+  - I'm also in the fediverse @walizw@cawfee.club
 
 ---
 
