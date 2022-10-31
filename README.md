@@ -2,11 +2,6 @@
   <img src="https://media.giphy.com/media/PZrjGkr334fXa/giphy.gif" width="250">
 </div>
 
-<div id="badges" align="center">
-  <!-- TODO: Badges? -->
-  <img src="https://komarev.com/ghpvc/?username=walizw">
-</div>
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
